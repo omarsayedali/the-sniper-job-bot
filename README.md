@@ -43,12 +43,13 @@ Logs all activity to sniper.log
 🎯 Impact
 Gives me a competitive edge by notifying me within 10 minutes of new projects being posted, allowing me to bid first and land more freelance gigs.
 
-📸 Screenshots
+## 📸 Screenshots
+
 ### Telegram Alerts
 ![Telegram Alerts](screenshots/telegram_alerts.png)
 
-#### Telegram profile
-![Telegram profile](screenshots/telegram_profile.png)
+### Telegram Profile
+![Telegram Profile](screenshots/telegram_profile.png)
 
 ### Bot Running Status
 ![Bot Running](screenshots/bot_running.png)
