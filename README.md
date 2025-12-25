@@ -46,17 +46,16 @@ Gives me a competitive edge by notifying me within 10 minutes of new projects be
 ## 📸 Screenshots
 
 ### Telegram Alerts
-<img width="1358" height="480" alt="Image" src="https://github.com/user-attachments/assets/52fec0d5-3a4e-4ba5-ba84-cfbc9e212510" />
+![Telegram Alerts](https://github.com/user-attachments/assets/52fec0d5-3a4e-4ba5-ba84-cfbc9e212510)
 
 ### Telegram Profile
-<img width="914" height="806" alt="Image" src="https://github.com/user-attachments/assets/278d2213-8b20-4ebc-a6d6-93a9e57610f2" />
+![Telegram Profile](https://github.com/user-attachments/assets/278d2213-8b20-4ebc-a6d6-93a9e57610f2)
 
 ### Bot Running Status
-<img width="1662" height="924" alt="Image" src="https://github.com/user-attachments/assets/eab758ce-6681-446c-b335-a01d2f1842fd" />
-
+![Bot Running](https://github.com/user-attachments/assets/eab758ce-6681-446c-b335-a01d2f1842fd)
 
 ### Project Structure
-<img width="1633" height="571" alt="Image" src="https://github.com/user-attachments/assets/4b0d5db1-c6f2-4e1c-8ffa-0ba455938320" />
+![Project Structure](https://github.com/user-attachments/assets/4b0d5db1-c6f2-4e1c-8ffa-0ba455938320)
 
 
 Built by Omar Sayed
