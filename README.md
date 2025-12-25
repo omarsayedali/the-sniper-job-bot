@@ -46,14 +46,16 @@ Gives me a competitive edge by notifying me within 10 minutes of new projects be
 ## 📸 Screenshots
 
 ### Telegram Alerts
-<img src="https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/telegram_alerts.png" width="700">
+![Telegram Alerts](https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/telegram_alerts.png)
 
 ### Telegram Profile
-<img src="https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/telegram_profile.png" width="700">
+![Telegram Profile](https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/telegram_profile.png)
 
 ### Bot Running Status
-<img src="https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/bot_running.png" width="700">
+![Bot Running](https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/bot_running.png)
 
 ### Project Structure
-<img src="https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/file_structure.png" width="700">
+![File Structure](https://raw.githubusercontent.com/omarsayedali/the-sniper-job-bot/main/screenshots/file_structure.png)
+
+
 Built by Omar Sayed
