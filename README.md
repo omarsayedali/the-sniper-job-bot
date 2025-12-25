@@ -45,16 +45,12 @@ Gives me a competitive edge by notifying me within 10 minutes of new projects be
 
 ## 📸 Screenshots
 
-### Telegram Alerts
 ![Telegram Alerts](screenshots/telegram_alerts.png)
 
-### Telegram Profile
 ![Telegram Profile](screenshots/telegram_profile.png)
 
-### Bot Running Status
 ![Bot Running](screenshots/bot_running.png)
 
-### Project Structure
 ![File Structure](screenshots/file_structure.png)
 
 Built by Omar Sayed
