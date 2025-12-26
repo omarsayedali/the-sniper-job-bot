@@ -43,18 +43,11 @@ Logs all activity to sniper.log
 🎯 Impact
 Gives me a competitive edge by notifying me within 10 minutes of new projects being posted, allowing me to bid first and land more freelance gigs.
 
+
+
 ## 📸 Screenshots
 
-<<<<<<< HEAD
-### Telegram Alerts
-![Telegram Alerts](docs/images/telegram_alerts.png)
+View all screenshots here: **[📸 SCREENSHOTS.md](docs/SCREENSHOTS.md)**
 
-### Telegram Profile
-![Telegram Alerts](docs/images/telegram_profile.png)
 
-### Bot Running Status
-![Telegram Alerts](docs/images/bot_running.png)
-
-### Project Structure
-![Telegram Alerts](docs/images/file_struc
 Built by Omar Sayed
