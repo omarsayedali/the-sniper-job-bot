@@ -45,12 +45,16 @@ Gives me a competitive edge by notifying me within 10 minutes of new projects be
 
 ## 📸 Screenshots
 
-![](https://github.com/user-attachments/assets/52fec0d5-3a4e-4ba5-ba84-cfbc9e212510)
+<<<<<<< HEAD
+### Telegram Alerts
+![Telegram Alerts](docs/images/telegram_alerts.png)
 
-![](https://github.com/user-attachments/assets/278d2213-8b20-4ebc-a6d6-93a9e57610f2)
+### Telegram Profile
+![Telegram Alerts](docs/images/telegram_profile.png)
 
-![](https://github.com/user-attachments/assets/eab758ce-6681-446c-b335-a01d2f1842fd)
+### Bot Running Status
+![Telegram Alerts](docs/images/bot_running.png)
 
-![](https://github.com/user-attachments/assets/4b0d5db1-c6f2-4e1c-8ffa-0ba455938320)
-
+### Project Structure
+![Telegram Alerts](docs/images/file_struc
 Built by Omar Sayed
