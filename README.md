@@ -47,7 +47,6 @@ Gives me a competitive edge by notifying me within 10 minutes of new projects be
 
 ## 📸 Screenshots
 
-View all screenshots here: [📸 SCREENSHOTS.md](docs/SCREENSHOTS.md)
-
+View all screenshots here: **[📸 View Screenshots](docs/SCREENSHOTS.md)**
 
 Built by Omar Sayed
