@@ -1,52 +1,49 @@
-# 🎯 The Sniper - Automated Job Hunter Bot
+# 🤖 The Sniper V2.0 - AI-Powered Job Hunter
 
-Professional Python bot that monitors Mostaql RSS feed and sends instant Telegram notifications for new freelance projects.
+> **"While I sleep, it hunts."**
 
-## 🚀 Features
+A next-generation automation bot that monitors freelance platforms (Mostaql, RemoteOK), filters out noise, and uses **Google Gemini AI** to draft winning proposals automatically.
 
-- Real-time job monitoring (every 10 minutes)
-- Instant Telegram notifications in Arabic
-- SQLite database to prevent duplicate alerts
-- Smart first-run spam protection
-- Runs silently in background
-- Auto-start with Windows
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![Gemini](https://img.shields.io/badge/AI-Gemini_Pro-orange?style=for-the-badge&logo=google)
+![Telegram](https://img.shields.io/badge/Alerts-Telegram-blue?style=for-the-badge&logo=telegram)
 
-## 🛠️ Tech Stack
-
-- Python 3.x
-- Libraries: requests, feedparser, sqlite3
-- Telegram Bot API
-- SQLite Database
-
-## 📦 Installation
-
-```bash
-pip install requests feedparser
-⚙️ Configuration
-Edit run.py:
-
-python
-response-action-icon
-TELEGRAM_TOKEN = "your_bot_token"
-TELEGRAM_CHAT_ID = "your_chat_id"
-RSS_FEEDS = ["https://mostaql.com/rss"]
-🚀 Usage
-Start: Double-click start_sniper.bat
-Stop: Double-click stop_sniper.bat
-Check Status: Double-click check_sniper.bat
-
-📊 How It Works
-Checks Mostaql RSS feed every 10 minutes
-Compares jobs against SQLite database
-Sends Telegram alert for new jobs only
-Logs all activity to sniper.log
-🎯 Impact
-Gives me a competitive edge by notifying me within 10 minutes of new projects being posted, allowing me to bid first and land more freelance gigs.
-
-
-
+---
 ## 📸 Screenshots
 
-For detailed screenshots of the bot in action, visit the [Screenshots Page](docs/SCREENSHOTS.md).
+### Telegram Alerts
+![Telegram Alerts](https://github.com/user-attachments/assets/52fec0d5-3a4e-4ba5-ba84-cfbc9e212510)
 
-Built by Omar Sayed
+### Telegram Profile
+![Telegram Profile](https://github.com/user-attachments/assets/278d2213-8b20-4ebc-a6d6-93a9e57610f2)
+
+### Bot Running Status
+![Bot Running](https://github.com/user-attachments/assets/eab758ce-6681-446c-b335-a01d2f1842fd)
+
+### Version 2
+![Version 2](https://github.com/user-attachments/assets/d5de5bd0-0306-4cf6-85fe-f4c7e2a0a91e)
+---
+
+### 🚀 New in V2.0 (The AI Upgrade)
+*   **🧠 AI Auto-Drafting:** Integrated `google.generativeai`. The bot reads the job description and writes a custom cover letter tailored to the client's problem.
+*   **🛡️ Smart Filters:** No more "WordPress" spam. The bot only alerts on specific keywords (e.g., `Python`, `Flask`, `Scraping`, `Bot`).
+*   **⚡ Instant Delivery:** Sends the Job Link + The AI Proposal directly to Telegram.
+
+---
+
+### 🛠️ Tech Stack
+*   **Core:** Python 3.x
+*   **AI:** Google Gemini API
+*   **Data:** Feedparser (RSS), SQLite (Deduplication)
+*   **Notifications:** Telegram Bot API
+*   **Security:** `.env` for credential management
+
+### 📸 How it Works
+1.  **Scan:** Checks RSS feeds every 10 minutes.
+2.  **Filter:** Discards 95% of irrelevant jobs.
+3.  **Analyze:** Sends valid jobs to Gemini AI.
+4.  **Draft:** Generates a persuasive proposal.
+5.  **Alert:** Buzzes my phone with the ready-to-send text.
+
+---
+*Built by Omar Sayed Ali*
