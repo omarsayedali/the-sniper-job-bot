@@ -9,5 +9,5 @@
 ## Bot Running Status
 ![Bot Running](images/bot_running.png)
 
-## Project Structure
-![File Structure](images/file_structure.png)
+## version 2
+![version 2](images/v2.png)
