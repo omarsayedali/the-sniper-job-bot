@@ -6,6 +6,11 @@ Fixed version with HTML escaping for Telegram
 
 import requests
 import logging
+import os
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 logging.basicConfig(
     level=logging.INFO,

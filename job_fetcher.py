@@ -12,7 +12,11 @@ import logging
 from typing import List, Dict, Optional
 from datetime import datetime
 from urllib.parse import urlparse
+import os
+from dotenv import load_dotenv
 
+# Load environment variables
+load_dotenv()
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
